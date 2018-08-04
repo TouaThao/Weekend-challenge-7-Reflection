@@ -23,7 +23,7 @@ class Feeling extends Component {
     return (
       <div>
         <Header />
-        <h2>1 of 4 pages</h2>
+        <h1>1 of 4 pages</h1>
         <div>
           <div className="card-design">
             <p>How are you feeling today?</p>

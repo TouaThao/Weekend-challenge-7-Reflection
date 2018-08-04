@@ -33,7 +33,7 @@ class Comments extends Component {
     return (
       <div>
           <Header/>
-          <h2>4 of 4 pages</h2>
+          <h1>4 of 4 pages</h1>
 
                 <div>
                     <div className="card-design">

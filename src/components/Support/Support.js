@@ -20,6 +20,7 @@ class Support extends Component {
     return (
       <div>
           <Header/>
+          <h1>3 of 4 pages</h1>
       <h1> Support Page </h1>
       <p>How well are you being supported?</p>
       <input type="number" placeholder="Rating" onChange={this.handleSupport} />

@@ -21,6 +21,7 @@ class Understanding extends Component {
     return (
       <div>
           <Header/>
+          <h1>2 of 4 pages</h1>
       <h1> 
         Understanding Page 
       </h1>
