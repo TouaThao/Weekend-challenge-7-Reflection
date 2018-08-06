@@ -22,9 +22,6 @@ class Understanding extends Component {
       <div>
           <Header/>
           <h1>2 of 4 pages</h1>
-      <h1> 
-        Understanding Page 
-      </h1>
     {/* Yes i know i'm missing e in are. 
     But i'm following the picture that was given to us
     =P. I will fix it after grading.*/}
